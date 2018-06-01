@@ -1,4 +1,20 @@
-'testmovie kept stack aligned.tif': Original file (i.e. data)
+# Références
+
+## Articles
+- [Eulerian video magnification for revealing subtle changes in the world](https://people.csail.mit.edu/mrub/papers/vidmag.pdf)
+- [Phase-based video motion processing](http://delivery.acm.org/10.1145/2470000/2461966/a80-wadhwa.pdf?ip=134.157.180.205&id=2461966&acc=OA&key=7EBF6E77E86B478F%2EA72B4D473219EA0C%2E4D4702B0C3E38B35%2E8A13F40887C8CA9E&__acm__=1527881263_0adb3bbf2bbe7783b80ab66fa966b11a)
+- [Mechanical surface waves accompany action potential propagation](https://www.nature.com/articles/ncomms7697.pdf)
+- [Motion microscopy for visualizing and quantifying small motions](http://www.pnas.org/content/pnas/early/2017/10/11/1703715114.full.pdf)
+- [Imaging Action Potential in Single Mammalian Neurons by Tracking the Accompanying Sub-Nanometer Mechanical Motion](https://pubs.acs.org/doi/abs/10.1021/acsnano.8b00867)
+
+
+## Liens
+- [Video Magnification](https://people.csail.mit.edu/mrub/vidmag/#code)
+- [Eulerian Video Magnification for Revealing Subtle Changes in the World](http://people.csail.mit.edu/mrub/evm/#code)
+
+
+# Data
+`testmovie kept stack aligned.tif`: original file (i.e. data)
 
 
 # TODO :
